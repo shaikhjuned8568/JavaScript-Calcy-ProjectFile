@@ -1,0 +1,51 @@
+body{
+
+    margin: 0;
+    padding: 0;
+}
+
+#heading{
+
+    text-align: center;
+    color: rgb(171, 16, 16);
+}
+
+.formstyle{
+
+    width: 360px;
+    height: 470px;
+    margin: 20px auto;
+    border: 30px solid skyblue;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: darkgoldenrod;
+}
+
+#doremon{
+
+        width: 258px;
+	    margin: 5px;
+	    font-size: 25px;
+	    padding: 5px;
+	    background-color: lime;
+}
+
+.btn-btn{
+
+        width: 50px;
+		height: 50px;
+		font-size: 25px;
+		margin: 2px;
+		cursor: pointer;
+		background-color: red;
+		color: white;
+		border-radius: 10px;
+}
+
+#res{
+
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+}
